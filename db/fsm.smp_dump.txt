@@ -1,0 +1,7 @@
+
+State Machine - |TopLevel|fsm:fsm1|y
+Name y.countreset y.count y.nocountreset y.nocount 
+y.nocount 0 0 0 0 
+y.nocountreset 0 0 1 1 
+y.count 0 1 0 1 
+y.countreset 1 0 0 1 
